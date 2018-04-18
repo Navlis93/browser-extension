@@ -1,10 +1,10 @@
 {
   "buildType": "dev",
 
-  "apiUrl": "http://localhost:5000/api/",
-  "authDomain": "localhost",
+  "apiUrl": "https://test-annotate.linalgo.com/",
+  "authDomain": "test-annotate.linalgo.com",
   "bouncerUrl": "http://localhost:8000/",
-  "serviceUrl": "http://localhost:5000/",
+  "serviceUrl": "https://test-annotate.linalgo.com/",
   "websocketUrl": "ws://localhost:5001/ws",
 
   "googleAnalytics": "UA-26026798-6",
