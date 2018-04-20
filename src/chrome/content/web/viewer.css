@@ -34,7 +34,9 @@
   -ms-transform-origin: 0% 0%;
   transform-origin: 0% 0%;
 }
-
+.textLayer > div hypothesis-highlight.annotator-hl {
+  color: #333;
+}
 .textLayer .highlight {
   margin: -1px;
   padding: 1px;
